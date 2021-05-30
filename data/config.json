@@ -3,7 +3,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -43,10 +43,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Star Baby"
             },
             {
                 "type": "footer_nav",
